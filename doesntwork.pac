@@ -3943,18 +3943,6 @@ var rules = [
   "@@||zhongsou.com",
   "@@|https://autoproxy.org",
   "@@|http://ime.baidu.jp",
-  "||atwiki.jp",
-  "||tumblr.com",
-  "||yande.re",
-  "||wikipedia.org",
-  "||wikimedia.org",
-  "||imgur.com",
-  "||dmm.co.jp",
-  "||dmm.com",
-  "||feedly.com",
-  "||minori.ph",
-  "||67.220.90.30",
-  "||danbooru.donmai.us"
 ];
 
 /*
